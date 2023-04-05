@@ -1,0 +1,43 @@
+.show_time, .show_bookmarked{
+    background-color: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    color: #6047EC;
+    font-weight: 700;
+    padding: 15px 10px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.show_bookmarked{
+    border: none;
+    margin-top: 15px;
+    background-color: rgba(17, 17, 17, 0.05);
+    color: #111111;
+    font-weight: normal;
+    text-align: left;
+}
+.show_bookmarked p{
+    background-color: #FFFFFF;
+    margin: 10px 0;
+    text-align: left;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 15px;
+}
+.sideCard{
+    position: sticky;
+    top: 10px;
+}
+@media (max-width: 576px) {
+    .show_time, .show_bookmarked{
+        padding: 10px 8px;
+        margin: 10px;
+        font-size: 14px;
+    }
+    .sideCard{
+        border-top: 1px solid rgba(17, 17, 17, 0.5);
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+}

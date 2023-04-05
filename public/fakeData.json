@@ -1,0 +1,38 @@
+[
+  {
+    "id": "101",
+    "Author_name": "Mr. Rubayat",
+    "Author_image": "https://randomuser.me/api/portraits/men/43.jpg",
+    "Blog_title": "Curious about what web developer career opportunities are out there?",
+    "Cover_image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80",
+    "Read_time": "05",
+    "Publish_Date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": "102",
+    "Author_name": "Sam Altman",
+    "Author_image": "https://randomuser.me/api/portraits/men/0.jpg",
+    "Blog_title": "ChatGPT is an artificial-intelligence (AI) chatbot developed by OpenAI and launched in November 2022.",
+    "Cover_image": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-852.jpg?w=740&t=st=1680236438~exp=1680237038~hmac=9d5bdc616dd80b3355e735a6c79be0fe0209bd312316ac3f38ec3616ca409890",
+    "Read_time": "25",
+    "Publish_Date": "Mar 16 (2 Days ago)"
+  },
+  {
+    "id": "103",
+    "Author_name": "Larry Page",
+    "Author_image": "https://randomuser.me/api/portraits/men/66.jpg",
+    "Blog_title": "Google uses your title tag to get an idea of what's on your page and how relevant your content is to the user's search query.",
+    "Cover_image": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=927&q=80",
+    "Read_time": "18",
+    "Publish_Date": "April 06 (3 Days ago)"
+  },
+  {
+    "id": "104",
+    "Author_name": "Bill Gates",
+    "Author_image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "Blog_title": "Microsoft is the largest vendor of computer software in the world. It is also a leading provider of cloud computing services, video games, computer and gaming hardware, search and other online services.",
+    "Cover_image": "https://images.unsplash.com/photo-1624571395775-253d9666612b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "Read_time": "20",
+    "Publish_Date": "Jan 22 (7 Days ago)"
+  }
+]
